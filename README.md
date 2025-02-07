@@ -1,4 +1,7 @@
 
+
+
+
 # GatherSpace
 
 Welcome to **GatherSpace**, a cutting-edge virtual workspace where collaboration comes alive! GatherSpace blends the functionality of traditional workspaces with the interactive freedom of a metaverse-like environment, allowing teams to work, meet, and interact as if they were physically together.
